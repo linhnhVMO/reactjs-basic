@@ -1,0 +1,18 @@
+.box-s1 {
+    box-shadow: #64646f33 0px 7px 29px 0px;
+}
+
+.box-s2{
+    
+    box-shadow: 0 1px 3px rgb(0 0 0 / 20%);
+}
+
+
+.border-c{
+    border: 2px solid #222
+}
+
+.hover\:black:hover {
+    color: #fff;
+    background: #222;
+}
